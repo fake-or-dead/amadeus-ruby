@@ -3,6 +3,6 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**results** | [**Array&lt;ExtensiveTrainSearchResult&gt;**](ExtensiveTrainSearchResult.md) |  | [optional] 
+**results** | [**Array<ExtensiveTrainSearchResult>**](ExtensiveTrainSearchResult.md) |  | [optional]
 
 

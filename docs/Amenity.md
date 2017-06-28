@@ -3,8 +3,8 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**amenity** | **String** | &lt;a href&#x3D;\&quot;hotels-api-supported-amenities-filter\&quot;&gt;The amenity code&lt;/a&gt; | [optional] 
-**ota_code** | **String** | The &lt;a href&#x3D;\&quot;http://www.opentravel.org/\&quot;&gt;Open Travel Alliance&lt;/a&gt; &lt;a href&#x3D;\&quot;ota-hotel-amenity-code-table\&quot;&gt;Hotel Amenities Code&lt;/a&gt; for this amenity. | [optional] 
-**description** | **String** | The decoded text description for this amenity code, where available. | [optional] 
+**amenity** | **String** | <a href="hotels-api-supported-amenities-filter">The amenity code</a> | [optional]
+**ota_code** | **String** | The <a href="http://www.opentravel.org/">Open Travel Alliance</a> <a href="ota-hotel-amenity-code-table">Hotel Amenities Code</a> for this amenity. | [optional]
+**description** | **String** | The decoded text description for this amenity code, where available. | [optional]
 
 

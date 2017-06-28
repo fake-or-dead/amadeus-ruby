@@ -3,6 +3,6 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**results** | [**Array&lt;TrainScheduleSearchResult&gt;**](TrainScheduleSearchResult.md) |  | [optional] 
+**results** | [**Array<TrainScheduleSearchResult>**](TrainScheduleSearchResult.md) |  | [optional]
 
 

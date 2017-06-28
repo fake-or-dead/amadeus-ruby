@@ -3,6 +3,6 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**results** | [**Array&lt;CarSearchResult&gt;**](CarSearchResult.md) |  | [optional] 
+**results** | [**Array<CarSearchResult>**](CarSearchResult.md) |  | [optional]
 
 
