@@ -3,7 +3,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**departs_at** | **String** | Date and time of departure at the origin, in &lt;a href&#x3D;\&quot;https://en.wikipedia.org/wiki/ISO_8601\&quot;&gt;ISO 8601&lt;/a&gt;  date format yyyy-MM-ddTHH:mm in the local time at the origin airport | 
+**departs_at** | **String** | Date and time of departure at the origin, in <a href=https://en.wikipedia.org/wiki/ISO_8601>ISO</a>;  date format yyyy-MM-ddTHH:mm in the local time at the origin airport | 
 **arrives_at** | **String** | Date and time of departure at the destination, in &lt;a href&#x3D;\&quot;https://en.wikipedia.org/wiki/ISO_8601\&quot;&gt;ISO 8601&lt;/a&gt;  date format yyyy-MM-ddTHH:mm in the local time at the destination airport | 
 **origin** | [**Airport**](Airport.md) | Information on the origin airport, from which this flight departs | 
 **destination** | [**Airport**](Airport.md) | Information on the destination airport, at which this flight arrives | 
