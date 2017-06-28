@@ -12,5 +12,3 @@ Name | Type | Description | Notes
 **flight_number** | **String** | The identifier that the airline uses for this flight route. This is most commonly - but not always - a number. When combined with the airline and date, it identifies an individual aircraft's flight |
 **aircraft** | **String** | The <a href="http://www.jacanaent.com/JacTechLib/07Aviation/AircraftTypeCodes.txt">IATA aircraft type designator</a> of aircraft that will be used for this flight | [optional]
 **booking_info** | [**FlightSearchBookingInfo**](FlightSearchBookingInfo.md) | A booking information object with additional details about how the quality of this flight at the given price. |
-
-
