@@ -36,9 +36,9 @@ Finally add this to the Gemfile:
 
 ### Install from Git
 
-If the Ruby gem is hosted at a git repository: https://github.com/YOUR_GIT_USERNAME/YOUR_GIT_REPO, then add the following in the Gemfile:
+If the Ruby gem is hosted at a git repository: https://github.com/fake-or-dead/amadeus-ruby, then add the following in the Gemfile:
 
-    gem 'swagger_client', :git => 'https://github.com/YOUR_GIT_USERNAME/YOUR_GIT_REPO.git'
+    gem 'swagger_client', :git => 'https://github.com/fake-or-dead/amadeus-ruby.git'
 
 ### Include the Ruby code directly
 
@@ -61,7 +61,7 @@ apikey = "apikey_example" # String | API Key provided for your account, to ident
 
 term = "Ban" # String | Search keyword that should represent the start of a word in a city or airport name.
 
-opts = { 
+opts = {
   country: "US", # String | Identified a country based of a <a href=\"https://en.wikipedia.org/wiki/ISO_3166-2#Current_codes\">ISO 3166-1 alpha-2 code</a>
   all_airports: false # BOOLEAN | Boolean to include or not all airports, no matter their traffic rank. False by default, to only display relevant airports.
 }

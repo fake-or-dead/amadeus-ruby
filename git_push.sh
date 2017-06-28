@@ -11,12 +11,12 @@ git_repo_id=$2
 release_note=$3
 
 if [ "$git_user_id" = "" ]; then
-    git_user_id="fake-or-dead"
+    git_user_id=""
     echo "[INFO] No command line input provided. Set \$git_user_id to $git_user_id"
 fi
 
 if [ "$git_repo_id" = "" ]; then
-    git_repo_id="amadeus-ruby"
+    git_repo_id=""
     echo "[INFO] No command line input provided. Set \$git_repo_id to $git_repo_id"
 fi
 
